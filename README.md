@@ -5,6 +5,6 @@
 <hr>
 
 
-<img src="">
+<img src="https://github.com/narcissusTheFlower/networking-lab2/blob/f99015584070ccd64cbee7acb376febdad0951da/network.png">
 
 
